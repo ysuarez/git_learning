@@ -35,6 +35,7 @@
 
 * commit & push 
   * option + command + K
+    * may only work after I have already ran commit (command + k) 
 
 
 * jump to git tab/console
