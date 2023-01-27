@@ -22,7 +22,10 @@
   * command + K
     * but I need to make sure I am not in "terminal" window, since I used this shortcut to clear CLI!
 * push  
+  * shift + command + K
 
+* commit & push 
+  * option + command + K
 
 
 * jump to git tab/console
