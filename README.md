@@ -2,6 +2,15 @@
 
 ## List of keyboard shorcuts
 
+* to do 
+  * figure out a quick set of commnds I shoudl use
+  * for example
+    * add, commit, push
+    * show log, diff
+  * though havign a little bit of clicking is not the end of the world
+  * ont he other hand, I want to try to avoid a ton of commits, bu I also don't want to lose data in HD dies
+    * maybe I can create cron job to create autoamted back ups to the cloud???
+
 
 * fetch
   * ??? there may not be key binding????
@@ -26,6 +35,7 @@
 
 * commit & push 
   * option + command + K
+    * may only work after I have already ran commit (command + k) 
 
 
 * jump to git tab/console
