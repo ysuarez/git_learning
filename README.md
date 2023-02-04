@@ -53,9 +53,15 @@
 * jump to terminal tab
   * option + F12
 
+#### Rebase
+
+* I found how to do interactive rebase to squash/fixup, reword, etc commits 
+* there is no key command to start rebase, though while in interative rebase window...
+  * set commit to "fixup" (instead of squash)
+      * option + F
+
+
 
 * extra shortcuts
   * copy commit has from log view
     * command + shift + option + c
-  * (while rebasing) set commit got "fixup"
-    * option + F
