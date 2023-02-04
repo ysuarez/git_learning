@@ -54,3 +54,5 @@
 * extra shortcuts
   * copy commit has from log view
     * command + shift + option + c
+  * (while rebasing) set commit got "fixup"
+    * option + F
