@@ -51,6 +51,6 @@
   * option + F12
 
 
-* extra shorcuts
-  * copy commmit has from log view
+* extra shortcuts
+  * copy commit has from log view
     * command + shift + option + c
