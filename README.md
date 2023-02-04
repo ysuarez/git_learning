@@ -33,17 +33,20 @@
 * add file
   * option + command + A
   * I can skip "add" by going straight to commit, but it "adds" all changes to tracked files, and not just the current file. Which is what I normally do.
+
 * commit
   * command + K
     * I can skip "add" and got straight to commit with this command! 
     * but I need to make sure I am not in "terminal" window, since I used this shortcut to clear CLI!
+  * commit & push 
+    * option + command + K
+      * only works after I have already run commit (command + k) 
+
 * push  
   * shift + command + K
+  * From here I can do "force push"
 
-* commit & push 
-  * option + command + K
-    * only works after I have already run commit (command + k) 
-
+  
 
 * jump to git tab/console
   * command + 9
