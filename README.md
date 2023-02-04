@@ -1,18 +1,18 @@
 # This is my test of pycharm git features
 
-## List of keyboard shorcuts
+## List of keyboard shortcuts
 
 * to do 
-  * figure out a quick set of commnds I shoudl use
+  * figure out a quick set of commands I should use
   * for example
     * add, commit, push
     * show log, diff
-  * though havign a little bit of clicking is not the end of the world
-  * ont he other hand, I want to try to avoid a ton of commits, bu I also don't want to lose data in HD diesI
-    * I haev an idea
+  * though having a little bit of clicking is not the end of the world
+  * on the other hand, I want to try to avoid a ton of commits, but I also don't want to lose data in HD diesI
+    * I have an idea
       * I will explore usign a topic branch (whcih is always good) 
       * then do rebase and squashing all of my commmits to make me look smart
-        * need to resaserch this
+        * need to research this
     * maybe I can create cron job to create autoamted back ups to the cloud???
 
 
@@ -26,7 +26,7 @@
 * diff
   * usually not shortcut
   * command + D
-    * but only works in Git tab???
+    * but only works in Git tab
 
 
 * add file
