@@ -16,7 +16,7 @@
     * maybe I can create cron job to create automated back-ups to the cloud???
 
 * fetch
-  * ??? there may not be key binding????
+  * there are no key bindings for fetch!!!
 * Update project
   * command + T
   * I get window to pick merge into current branch
@@ -26,13 +26,13 @@
 
 
 * diff
-  * usually not shortcut
   * command + D
-    * but only works in Git tab
+    * but only works in Git tab, or you'll get other behavior
 
 
 * add file
   * option + command + A
+  * I can skip "add" by going straight to commit, but it "adds" all changes to tracked files, and not just the current file. Which is what I normally do.
 * commit
   * command + K
     * I can skip "add" and got straight to commit with this command! 
